@@ -18,12 +18,12 @@
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
 
- <dependencies>
+  <dependencies>
     <groupId>org.apache.maven.plugins</groupId>
     <artifactId>maven-war-plugin</artifactId>
     <version>3.2.2</version>
-</dependencies>
-  
+  </dependencies>
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
